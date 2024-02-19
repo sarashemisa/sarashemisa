@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarashemisa
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning java and html
 - 📫 How to reach me saratarekshemisa@gmail.com
 
 <!---
