@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sarashemisa
-- 👀 I’m interested in web and app development
-- 📫 How to reach me saratarekshemisa@gmail.com
+
 
 <!---
 sarashemisa/sarashemisa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
